@@ -14,5 +14,6 @@ artifacts:
   files:
     - server.js
     - package.json
+    - package-lock.json
     - dist/**/*
   base-directory: .
